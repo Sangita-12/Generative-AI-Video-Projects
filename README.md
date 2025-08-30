@@ -38,3 +38,4 @@ I used **Kling AI** to generate video clips, **ChatGPT** for idea and script wri
 
 ## 👩‍💻 Author  
 **Sangita Mallick**  
+🔗 [Watch Branding Video](https://drive.google.com/your-video-link)
