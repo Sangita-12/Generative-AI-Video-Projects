@@ -19,17 +19,13 @@ I used **Kling AI** to generate video clips, **ChatGPT** for idea and script wri
 - Used **ChatGPT** to prepare concept & script  
 - Generated visuals in **Kling AI**  
 - Edited with **CapCut** (sound sync + transitions)  
-- **Preview:**  
-  *(Upload screenshot or small GIF here, e.g., Branding-Video/preview.gif)*  
-
 ---
 
 ### 🔹 Futuristic City Promo  
 - Concept idea created with **ChatGPT** prompts  
 - AI visuals generated using **Kling AI**  
 - Enhanced and finalized in **CapCut**  
-- **Preview:**  
-  *(Upload screenshot or small GIF here, e.g., Futuristic-City-Promo/preview.gif)*  
+ 
 
 ---
 
